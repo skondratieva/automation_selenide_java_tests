@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="LoginFormTestSuite" duration-ms="8285" started-at="2019-05-08T16:52:18Z" finished-at="2019-05-08T16:52:26Z">
+    <groups>
+    </groups>
+    <test name="English" duration-ms="5841" started-at="2019-05-08T16:52:18Z" finished-at="2019-05-08T16:52:24Z">
+      <class name="LoginForm.Elements.ElementsTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:LoginForm.Elements.ElementsTest@2c104774]" name="setup" is-config="true" duration-ms="94" started-at="2019-05-08T16:52:18Z" finished-at="2019-05-08T16:52:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="beforeClass(org.testng.ITestContext)[pri:0, instance:LoginForm.Elements.ElementsTest@2c104774]" name="beforeClass" is-config="true" duration-ms="7" started-at="2019-05-08T16:52:18Z" finished-at="2019-05-08T16:52:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@27fe059d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="logOff()[pri:0, instance:LoginForm.Elements.ElementsTest@2c104774]" name="logOff" is-config="true" duration-ms="1" started-at="2019-05-08T16:52:18Z" finished-at="2019-05-08T16:52:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOff -->
+        <test-method status="PASS" signature="Elements(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:LoginForm.Elements.ElementsTest@2c104774]" name="Elements" duration-ms="5469" started-at="2019-05-08T16:52:18Z" data-provider="LoginForm" finished-at="2019-05-08T16:52:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Log in]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mail address]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Password]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Forgotten password?]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Log in]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Elements -->
+      </class> <!-- LoginForm.Elements.ElementsTest -->
+    </test> <!-- English -->
+    <test name="French" duration-ms="2432" started-at="2019-05-08T16:52:24Z" finished-at="2019-05-08T16:52:26Z">
+      <class name="LoginForm.Elements.ElementsTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:LoginForm.Elements.ElementsTest@5049d8b2]" name="setup" is-config="true" duration-ms="128" started-at="2019-05-08T16:52:24Z" finished-at="2019-05-08T16:52:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="beforeClass(org.testng.ITestContext)[pri:0, instance:LoginForm.Elements.ElementsTest@5049d8b2]" name="beforeClass" is-config="true" duration-ms="1" started-at="2019-05-08T16:52:24Z" finished-at="2019-05-08T16:52:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@766a52f5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="logOff()[pri:0, instance:LoginForm.Elements.ElementsTest@5049d8b2]" name="logOff" is-config="true" duration-ms="18" started-at="2019-05-08T16:52:24Z" finished-at="2019-05-08T16:52:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOff -->
+        <test-method status="PASS" signature="Elements(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:LoginForm.Elements.ElementsTest@5049d8b2]" name="Elements" duration-ms="2281" started-at="2019-05-08T16:52:24Z" data-provider="LoginForm" finished-at="2019-05-08T16:52:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Se connecter]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Adresse email]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Mot de passe]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Mot de passe oublié ?]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Se connecter]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Elements -->
+      </class> <!-- LoginForm.Elements.ElementsTest -->
+    </test> <!-- French -->
+  </suite> <!-- LoginFormTestSuite -->
+</testng-results>

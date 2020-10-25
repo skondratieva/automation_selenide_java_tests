@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="NewsletterFormTestSuite" >
+    <test name="English">
+        <parameter name="language" value="en" />
+        <classes>
+            <class name="NewsletterForm.Elements.ElementsTest" />
+        </classes>
+    </test>
+    <test name="French">
+        <parameter name="language" value="fr" />
+        <classes>
+            <class name="NewsletterForm.Elements.ElementsTest" />
+        </classes>
+    </test>
+</suite>

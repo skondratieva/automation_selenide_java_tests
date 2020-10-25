@@ -1,0 +1,11 @@
+LoginForm/UserCanLogin/UserProfilePage.class
+NewsletterForm/UserCanSubmitForm/Form.class
+LoginForm/UserCanLogin/HomePage.class
+RecoverPasswordForm/Errors/Errors.class
+LoginForm/Elements/Elements.class
+RecoverPasswordForm/Elements/Elements.class
+RecoverPasswordForm/UserCanSubmit/UserCanSubmitForm.class
+LoginForm/Errors/Errors.class
+NewsletterForm/Elements/Elements.class
+NewsletterForm/Errors/Errors.class
+NewsletterForm/UserCanSubmitForm/Homepage.class

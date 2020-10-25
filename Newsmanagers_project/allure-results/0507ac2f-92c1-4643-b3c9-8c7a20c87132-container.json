@@ -1,0 +1,1 @@
+{"uuid":"0507ac2f-92c1-4643-b3c9-8c7a20c87132","name":"LoginForm.UserCanLogin.UserLoginTest","children":["b5686b1d-dbb4-4a28-b096-73543df2ea09"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1556122541519,"stop":1556122541697}],"afters":[],"links":[],"start":1556122541457,"stop":1556122634281}
